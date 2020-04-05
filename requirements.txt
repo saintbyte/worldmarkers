@@ -1,0 +1,15 @@
+asgiref==3.2.7
+Django==3.0.4
+django-geojson==3.0.0
+django-leaflet==0.26.0
+django-rest-framework==0.1.0
+django-rest-registration==0.5.5
+djangorestframework==3.11.0
+djangorestframework-gis==0.15
+Pillow==7.1.1
+pkg-resources==0.0.0
+psycopg2-binary==2.8.4
+pytz==2019.3
+six==1.14.0
+sqlparse==0.3.1
+typing==3.7.4.1
