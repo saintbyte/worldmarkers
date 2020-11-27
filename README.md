@@ -1,4 +1,6 @@
 # world markers
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaintbyte%2Fworldmarkers.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaintbyte%2Fworldmarkers?ref=badge_shield)
+
 Проект на джанго с REST
 
 ## Установка
@@ -25,3 +27,6 @@
 Icons for markers:
 Museum icon: https://icons8.com/icons/set/museum--v1 
 icon by Icons8 https://icons8.com 
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaintbyte%2Fworldmarkers.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaintbyte%2Fworldmarkers?ref=badge_large)
