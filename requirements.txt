@@ -4,7 +4,7 @@ django-geojson==3.0.0
 django-leaflet==0.26.0
 django-rest-framework==0.1.0
 django-rest-registration==0.5.5
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-gis==0.15
 Pillow==7.1.1
 pkg-resources==0.0.0
