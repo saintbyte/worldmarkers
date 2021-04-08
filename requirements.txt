@@ -1,5 +1,5 @@
 asgiref==3.2.7
-Django==3.0.4
+Django==3.0.14
 django-geojson==3.0.0
 django-leaflet==0.26.0
 django-rest-framework==0.1.0
